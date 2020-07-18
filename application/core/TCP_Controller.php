@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed!');
 
-class TCP_Controller extends CI_Controller{
+class TCP_Controller extends CI_Controller {
     protected $reqlvl = 99;
     protected $global_title = '';
     
